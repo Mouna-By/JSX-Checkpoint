@@ -1,0 +1,13 @@
+.title-red{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    margin:  5% ;
+    border-style: double;  
+}
+.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
